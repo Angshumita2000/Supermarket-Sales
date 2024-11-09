@@ -1,22 +1,35 @@
 # Supermarket-Sales
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset. 
+# Attribute information
+* Invoice id: Computer generated sales slip invoice identification number
+* Branch: Branch of supercenter (3 branches are available identified by A, B and C).
+* City: Location of supercenters
+* Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
+* Gender: Gender type of customer
+* Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel
+* Unit price: Price of each product in $
+* Quantity: Number of products purchased by customer
+* Tax: 5% tax fee for customer buying
+* Total: Total price including tax
+* Date: Date of purchase (Record available from January 2019 to March 2019)
+* Time: Purchase time (10am to 9pm)
+* Payment: Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet)
+* COGS: Cost of goods sold
+* Gross margin percentage: Gross margin percentage
+* Gross income: Gross income
+* Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
-Insights and recommendations are provided on the following key areas:
+  # Data Link: [https://kaggle.com/datasets/aungpyaeap/supermarket-sales]
+With this given dataset the following questions are being answered. Insights and recommendations are provided on the following key areas: 
+-**What are the key factors driving revenue and profitability across different branches and product lines?**
+-**How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?**
+-**What are the patterns or trends in customer satisfaction ratings across branches, times, or product lines?**
+-**Which payment methods are most popular, and do they correlate with larger purchases or specific customer segments?**
+-**Are there seasonal or time-based trends in sales volume, and how can we leverage them to maximize peak times?**
+ 
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
@@ -45,7 +58,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### What are the key factors driving revenue and profitability across different branches and product lines?:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -58,7 +71,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-### Category 2:
+### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -71,7 +84,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-### Category 3:
+### What are the patterns or trends in customer satisfaction ratings across branches, times, or product lines?:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -84,7 +97,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Which payment methods are most popular, and do they correlate with larger purchases or specific customer segments?:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -95,6 +108,18 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 4]
+
+### Are there seasonal or time-based trends in sales volume, and how can we leverage them to maximize peak times?:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 5]
 
 
 
