@@ -35,7 +35,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of two tables: table 1 and table 2 with a total row count of X records. A description of each table is as follows:
+The companies main database structure as seen below consists of two tables: table 1 and table 2 with a total row count of 1000 records. A description of each table is as follows:
 - **Table 1:**<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/gilmpse%20of%20data.png" alt="glimpse of data" height="500" width="1000"/>
 - **Table 2:**<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/summary%20data.png" alt="summary of data" />
 
