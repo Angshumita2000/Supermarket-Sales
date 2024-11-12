@@ -29,7 +29,7 @@ With this given dataset the following questions are being answered. Insights and
 - **Which payment methods are most popular, and do they correlate with larger purchases or specific customer segments?**
 - **Are there seasonal or time-based trends in sales volume, and how can we leverage them to maximize peak times?**
  
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link] (https://public.tableau.com/shared/HH3ZW6RF8?:display_count=n&:origin=viz_share_link).
 
 
 
