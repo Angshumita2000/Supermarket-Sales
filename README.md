@@ -20,7 +20,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 * Gross margin percentage: Gross margin percentage
 * Gross income: Gross income
 * Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
- # Data Link: [https://kaggle.com/datasets/aungpyaeap/supermarket-sales]
+ # Data Source : [https://kaggle.com/datasets/aungpyaeap/supermarket-sales]
 
 With this given dataset the following questions are being answered. Insights and recommendations are provided on the following key areas:
 - **What are the key factors driving revenue and profitability across different branches and product lines?**
