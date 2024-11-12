@@ -68,7 +68,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** Branch C shows the highest revenue, driven by strong sales in high-demand product lines like 'Food and beverages' and 'Fashion Accessories.' In terms of profitability, All branches stand out due to high gross margins in specific product lines, suggesting that operational efficiencies or customer preferences may play a role.  For 'A' it is:'Home and lifestyle', 'sports and travel', 'Electronic'. For 'B' it is ; 'Sports and travels', 'health and beauty'. For 'C' it is 'Food and beverages and Fashion Accessories'.
 
 <img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
-[[https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif](https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8)]
+[https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8]
 
 
 ### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
