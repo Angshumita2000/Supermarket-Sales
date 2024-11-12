@@ -66,7 +66,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 1]
+<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
+[https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif]
 
 
 ### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
