@@ -34,7 +34,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 
 # Data Structure & Initial Checks
-![Supermarket Sales Dashboard](gilmpse of data.png)
+<img src="glimpse of data.png" alt="glimpse of data" width="500"/>
  
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
