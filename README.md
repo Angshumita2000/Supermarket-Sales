@@ -73,7 +73,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
 
-* **Main insight 1.** After analyzing the purchasing patterns, we see that members tend to purchase more frequently and spend more per visit compared to non-members, especially in  categories like Food and brvarages and Home & Lifestyle, and Sports and travel.
+* **Main insight 1.** After analyzing the purchasing patterns, we see that members tend to purchase more frequently and spend more per visit compared to non-members, especially in  categories like Food and brvarages and Home & Lifestyle, and Sports and travel. Aditinally, Female basket size, means the item grabbed each visit is 9.7% more than a male customer. And they tend to give, 9.2$ more revenue on an average.
 * <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_%20(1).png" alt="viz1" />
   
 * **Main insight 2.** Additionally, **female customers** appear to **less prefer** categories like **Health & Beauty**, yet they **prefer** **Food and beverages** more. There’s also a trend of **male members** favoring **Health& beauty**, **sports and beverages**, **electronics**, potentially indicating a high-value demographic that could be targeted with loyalty incentives.
