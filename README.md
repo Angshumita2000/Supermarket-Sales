@@ -77,7 +77,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_%20(1).png" alt="viz1" />
   
 * **Main insight 2.** Additionally, **female customers** appear to **less prefer** categories like **Health & Beauty**, yet they **prefer** **Food and beverages** more. There’s also a trend of **male members** favoring **Health& beauty**, **sports and beverages**, **electronics**, potentially indicating a high-value demographic that could be targeted with loyalty incentives.
-* <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_%20.png" alt="viz1" />
+* <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_.png" alt="viz2" />
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
