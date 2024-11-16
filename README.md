@@ -89,7 +89,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 3.** In the following heatmap you can see there are the overall all type of payments made by female customer  for 'Health & Beauty' across all branches is lesser than the rest. Again for male customers have significantly less spending on credit cards in 'Home and lifestyle' section.
   <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20preferences%20by%20payment%20method.png" alt="Product line preferences by payment method" />
 * **Main insight 4.** In this following heatmap we can Female- member customers gives more revenue than male-member customers.
-* <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/High-Margin%20product.png",alt="High Margin products" />
+* <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/High-Margin%20product.png" alt="High Margin products" />
   
 
 [Visualization specific to category 2]
