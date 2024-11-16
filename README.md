@@ -50,7 +50,9 @@ The companies main database structure as seen below consists of two tables: tabl
 
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+[Visualization, including a graph of overall trends or snapshot of a dashboard](https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8)
+<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
+
 
 
 
@@ -59,16 +61,20 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Main insight 1.**
   The primary factors driving revenue are **product line performance**, **branch differences**, and **customer type**. Branch C shows the highest revenue, driven by strong sales in high-demand product lines like 'Food and beverages' and 'Fashion Accessories.' In terms of profitability, All branches stand out due to high gross margins in specific product lines, suggesting that operational efficiencies or customer preferences may play a role.  For 'A' it is:'Home and lifestyle', 'sports and travel', 'Electronic'. For 'B' it is ; 'Sports and travels', 'health and beauty'. For 'C' it is 'Food and beverages and Fashion Accessories'.
+  <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Branch%20Revenue.png" alt="Branch Revenue" />
+  <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Revenue%20related%20Factors.png" alt="Revenue with each product line" />
   
 * **Main insight 2.**
    In branch 'A''s  product line of 'health and beauty','food and beverages', 'Fashion Accessories' having a high gross margin percentage means a company is keeping a large portion of its sales revenue as profit after subtracting the cost of goods sold, indicating efficient cost management and potentially higher profitability, while having "low gross income" means the company is generating a relatively small amount of profit from sales, even if their gross margin percentage is high, which could be due to low sales volume.On the other hand, Branch 'B' is being efficient in selling 'Sports and travel'. But in other product lines, special mention , 'Fashion accessories ' and 'food and beverages' having low gross income.
+    <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Branch%20Profit%20Margins_.png" alt="Branch profit Margin" />
+    <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Unit%20Price%20Margins.png" alt="Unit price Margin" />
+
+  
   
 * **Main insight 3.** In Branch 'C' the story is quiet opposite from branch 'A'. It is giving higher revenue in products like, 'Food and beverages', 'Fashion Accessories'. While bringing low revenue in ' Home and life style ' and 'health and beauty'. Although Branch 'B' produce most revenue and efficient in selling ' Sports and Travel', Among the 3 branches it sells 'Health and beauty' efficiently.
   
 * **Main insight 4.** Branch C shows the highest revenue, driven by strong sales in high-demand product lines like 'Food and beverages' and 'Fashion Accessories.' In terms of profitability, All branches stand out due to high gross margins in specific product lines, suggesting that operational efficiencies or customer preferences may play a role.  For 'A' it is:'Home and lifestyle', 'sports and travel', 'Electronic'. For 'B' it is ; 'Sports and travels', 'health and beauty'. For 'C' it is 'Food and beverages and Fashion Accessories'.
 
-<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
-[https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8]
 
 
 ### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
