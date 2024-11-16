@@ -80,15 +80,17 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### How do customer demographics (such as customer type and gender) impact purchasing behavior and product preferences?:
 
-* **Main insight 1.** After analyzing the purchasing patterns, we see that members tend to purchase more frequently and spend more per visit compared to non-members, especially in  categories like Food and brvarages and Home & Lifestyle, and Sports and travel(see productline preference chart). Aditinally, Female basket size, means the item grabbed each visit is 9.7% more than a male customer(see basket size chart). Additionally they tend to give, 9.2$ more revenue on an average(Average spending comparison chart).
+* **Main insight 1.** After analyzing the purchasing patterns, we see that members tend to purchase more frequently and spend more per visit compared to non-members, especially in  categories like Food and brvarages and Home & Lifestyle, and Sports and travel(see spending pattern by customer type chart). Aditinally, Female basket size, means the item grabbed each visit is 9.7% more than a male customer(see basket size chart). Additionally they tend to give, 9.2$ more revenue on an average(Average spending comparison chart).
 * <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_%20(1).png" alt="viz1" />
   
-* **Main insight 2.** Additionally, **female customers** appear to **less prefer** categories like **Health & Beauty**, yet they **prefer** **Food and beverages** more. There’s also a trend of **male members** favoring **Health& beauty**, **sports and beverages**, **electronics**, potentially indicating a high-value demographic that could be targeted with loyalty incentives.
+* **Main insight 2.** Additionally, **female customers** appear to **less prefer** categories like **Health & Beauty**, yet they **prefer** **Food and beverages** more. There’s also a trend of **male members** favoring **Health& beauty**, **sports and beverages**, **electronics**, potentially indicating a high-value demographic that could be targeted with loyalty incentives(see product line preference Heatmap). Female customer spends approx 24$ more than a male customer in the supermarket across all branches (see Avg.spend per visit by gender)  .
 * <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/How%20do%20customer%20demographics%20(such%20as%20customer%20type%20and%20gender)%20impact%20purchasing%20behavior%20and%20product%20preferences_.png" alt="viz2" />
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** In the following heatmap you can see there are the overall all type of payments made by female customer  for 'Health & Beauty' across all branches is lesser than the rest. Again for male customers have significantly less spending on credit cards in 'Home and lifestyle' section.
+  <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20preferences%20by%20payment%20method.png" alt="Product line preferences by payment method" />
+* **Main insight 4.** In this following heatmap we can Female- member customers gives more revenue than male-member customers.
+* <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/High-Margin%20product.png",alt="High Margin products" />
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 2]
 
