@@ -29,7 +29,8 @@ With this given dataset the following questions are being answered. Insights and
 - **Which payment methods are most popular, and do they correlate with larger purchases or specific customer segments?**
 - **Are there seasonal or time-based trends in sales volume, and how can we leverage them to maximize peak times?**
  
-An interactive Tableau dashboard used to report and explore sales trends can be found here [https://public.tableau.com/shared/HH3ZW6RF8?:display_count=n&:origin=viz_share_link] .
+An interactive Tableau dashboard used to report and explore sales trends can be found here [Dashboard Link](https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8) .
+<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
 
 
 
@@ -50,8 +51,8 @@ The companies main database structure as seen below consists of two tables: tabl
 
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard](https://public.tableau.com/app/profile/angshumita.sarkar/viz/shared/HH3ZW6RF8)
-<img src="https://github.com/Angshumita2000/Supermarket-Sales/blob/main/Story1%20animation.gif" alt="Tablaeu story 1" />
+[Visualization, including a graph of overall trends or snapshot of a dashboard]
+
 
 
 
