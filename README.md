@@ -97,9 +97,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### What are the patterns or trends in customer satisfaction ratings across branches, times, or product lines?:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 1.** Overall, Branch C has higher ratings in both type of members and non-members with average of ratings *7.068*. Then the higher satisfaction is at branch A following branch B.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** The highest rating recieved by Branch 'B' and 'C' during 12:00 which is average of 7.39. For A  it is 18:00 which is 7.31.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
