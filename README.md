@@ -102,7 +102,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 2.** The highest rating recieved by Branch 'B' and 'C' during 12:00 which is average of 7.39. For A  it is 18:00 which is 7.31.
   
 * **Main insight 3.** In the following heat map we can see there is some constand bad ratings to the product line which closely similar to the point we discussed in previous inshights for different questions.
-  [Link of the tablaeu heatmap](https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20trend%20satisfaction.png)
+  [Link of the tablaeu heatmap](https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20trend%20satisfaction.png) <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20trend%20satisfaction.png" alt="Product line satisfaction trend" />
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
