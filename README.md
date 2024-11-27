@@ -104,7 +104,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 3.** In the following heat map we can see there is some constand bad ratings to the product line which closely similar to the point we discussed in previous inshights for different questions.
   [Link of the tablaeu heatmap](https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20trend%20satisfaction.png) <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Product%20line%20trend%20satisfaction.png" alt="Product line satisfaction trend" />
   
-* **Main insight 4.** In this bubble chart the revenue in peak hours which is 12- 13 pm . The rating for each product how it varies for each branch. The  'Fashion Accessories' in branch A & C 'Health and Beauty' in B gives more revenue. Feel free to try out the filters, [Tablaeu bubble chart] (https://public.tableau.com/views/SupermarketSalesanalysis_17313098499390/Bubblechartforcrossfactors?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **Main insight 4.** In this bubble chart the revenue in peak hours which is 12- 13 pm . The rating for each product how it varies for each branch. The  'Fashion Accessories' in branch A & C 'Health and Beauty' in B gives more revenue. Feel free to try out the filters, [Tablaeu bubble chart](https://public.tableau.com/views/SupermarketSalesanalysis_17313098499390/Bubblechartforcrossfactors?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Bubble%20chart%20for%20cross%20factors.png" alt="Cross Factors Analysis" />
 
