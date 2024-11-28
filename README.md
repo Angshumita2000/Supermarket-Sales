@@ -109,18 +109,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 <img src="https://github.com/Angshumita2000/Supermarket-Sales-EDA-analysis/blob/main/Bubble%20chart%20for%20cross%20factors.png" alt="Cross Factors Analysis" />
 
 
-### Which payment methods are most popular, and do they correlate with larger purchases or specific customer segments?:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
 ### Are there seasonal or time-based trends in sales volume, and how can we leverage them to maximize peak times?:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
